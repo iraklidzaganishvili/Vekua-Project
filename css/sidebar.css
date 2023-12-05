@@ -19,4 +19,16 @@
   display: none;
 }
 
+.carousel-item {
+  height: 60vh;
+}
+
+.img {
+  height: 60vh;
+}
+
+.body {
+  background-color: rgb(235, 235, 235);
+}
+
 /*# sourceMappingURL=sidebar.css.map */
